@@ -1,2 +1,2 @@
-# react-ts-template
-react typescript template
+# reactjs advanced example
+reactjs advanced example
